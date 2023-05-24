@@ -1,0 +1,3 @@
+# premiere_pymiere_export_screen_frames
+
+Adobe Premiere Pro kurgu programında aktif sekanstaki videodan istenilen kareler arası screen shot almaya yarayan otomatik uygulama...
